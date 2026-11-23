@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/zeroblur", "destination": "/zeroblur.html" },
+    { "source": "/formats", "destination": "/zeroblur.html" }
+  ]
+}
